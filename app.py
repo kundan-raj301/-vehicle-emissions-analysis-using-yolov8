@@ -44,6 +44,7 @@ def main():
 
     # File uploader
     uploaded_file = st.file_uploader("Upload a video", type=["mp4"])
+
     if uploaded_file is not None:
         # Load a custom trained YOLO model
         model = YOLO(r"C:\Users\rajku\OneDrive\Desktop\-vehicle-emissions-analysis-using-yolov8\yolov8n.pt")  # Load the custom-trained model
