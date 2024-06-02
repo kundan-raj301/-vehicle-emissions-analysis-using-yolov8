@@ -64,6 +64,11 @@ Key Features
 * Expansion of YOLOv8n's vehicle detection capabilities.
 * Integration with additional data sources (e.g., traffic patterns, weather).
 
+### Project Output :
+
+![image](https://github.com/kundan-raj301/-vehicle-emissions-analysis-using-yolov8/assets/126227974/c2d6c739-0295-482f-89fb-4a8a54267f5c)
+
+
 ### Acknowledgments
 
 Special thanks to my supervision  ** Dharmendra Singh** for their invaluable guidance and support throughout this project.
