@@ -2,6 +2,8 @@
 
 This project aims to analyze the relationship between vehicle characteristics and CO2 emissions, providing insights into the environmental impact of different vehicle types. It includes a data analysis component using machine learning models and a Streamlit web application that leverages YOLOv8n for real-time object detection in traffic videos.
 
+##### Link: https://vehicle-emissions-analysis-using-yolov8.onrender.com/
+
 ### Project Overview
 
 The transportation sector significantly contributes to greenhouse gas emissions, and vehicle size plays a crucial role. This project quantifies this impact by:
