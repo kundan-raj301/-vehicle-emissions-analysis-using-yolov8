@@ -47,7 +47,7 @@ def main():
 
     if uploaded_file is not None:
         # Load a custom trained YOLO model
-        model = YOLO(r"C:\Users\rajku\OneDrive\Desktop\-vehicle-emissions-analysis-using-yolov8\yolov8n.pt")  # Load the custom-trained model
+        model = YOLO(r"https://github.com/kundan-raj301/-vehicle-emissions-analysis-using-yolov8/blob/main/yolov8n.pt")  # Load the custom-trained model
 
         # Load the video
         video_bytes = uploaded_file.read()
